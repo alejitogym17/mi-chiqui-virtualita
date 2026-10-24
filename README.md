@@ -23,20 +23,20 @@ Abre **index.html** en un navegador moderno, en celular o en computador. No requ
 - **Dibujos:** el corazón principal es SVG dentro de **index.html**; el sobre, la flor y los adornos están hechos con CSS.
 - **Música:** quien abra la página puede seleccionar un archivo de audio local durante la visita. Usa únicamente audio que tengas derecho a compartir. No hay canción incluida.
 
-## Publicar gratis con GitHub Pages
+## Publicación en GitHub Pages
 
-1. Crea un repositorio público en GitHub y sube los archivos de esta carpeta.
-2. En el repositorio, abre **Settings → Pages**.
-3. En **Build and deployment**, elige **Deploy from a branch**, selecciona **main** y **/ (root)**, y guarda.
-4. Espera a que GitHub Pages complete la publicación; luego abre el enlace que indique la sección Pages y comprueba que la historia cargue.
+- **Sitio:** <https://alejitogym17.github.io/mi-chiqui-virtualita/>
+- **Repositorio público:** <https://github.com/alejitogym17/mi-chiqui-virtualita>
+- Pages publica la rama **main**, carpeta **/ (root)**.
 
-Una publicación en GitHub Pages es pública para quien tenga el enlace y podría ser descubierta por otros medios. No la consideres privada. Este proyecto no tiene cuenta, repositorio ni publicación configurados automáticamente.
+El sitio y su repositorio son públicos. Cualquiera con el enlace puede verlos y también podrían descubrirse por otros medios; no los consideres privados.
 
 ## Revisión realizada
 
 - Abrí la vista previa en un navegador local y recorrí las seis etapas. Probé abrir el sobre, las respuestas «sí», «quiero pensarlo» y «no», el botón para reducir animaciones, el reinicio desde el nombre de la página y el inicio con teclado.
 - Revisé el código JavaScript, las referencias locales y los identificadores del HTML. La página solo carga sus propios archivos; no tiene servicios externos, analítica ni almacenamiento de respuestas.
-- No probé reproducir una canción real: no había un archivo de audio autorizado para usar en la prueba. Tampoco comprobé un teléfono físico ni una publicación en GitHub Pages.
+- Publiqué el sitio en GitHub Pages y verifiqué que la compilación terminara correctamente, que la página cargara y que el botón inicial avanzara al sobre. La consola del navegador no mostró errores ni advertencias.
+- No probé reproducir una canción real: no había un archivo de audio autorizado para usar en la prueba. Tampoco comprobé un teléfono físico.
 
 ## Archivos
 
